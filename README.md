@@ -19,7 +19,8 @@ Each lab folder contains:
 - A lab-specific README file
 
 ## Labs Included
-- Lab 01 – DDL & DML  
+- Lab 01 – DDL & DML
+- Lab 02 - ER Diagram
 
 Additional labs will be added week by week as assigned.
 
@@ -32,3 +33,4 @@ Additional labs will be added week by week as assigned.
 ## Note
 Oracle does not support the `CREATE DATABASE` command like MySQL.
 All tables are created under the connected user schema.
+
