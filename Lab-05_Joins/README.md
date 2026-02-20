@@ -1,148 +1,153 @@
-📌 DBMS Lab 05 – Data Retrieval Using INNER JOIN
-👨‍🎓 Student Details
+# 📘 DBMS Lab 05 – INNER JOIN Queries  
 
-Name: Ashish Srivastava
+## 👨‍🎓 Student Information
 
-Course: B.Tech – Computer Science & Engineering
+| Field | Details |
+|-------|----------|
+| **Name** | Ashish Srivastava |
+| **Course** | B.Tech – Computer Science & Engineering |
+| **Semester** | 5th |
+| **Subject** | Database Management Systems Lab |
+| **Tool Used** | Oracle SQL Developer |
 
-Semester: 5th
+---
 
-Subject: Database Management Systems (DBMS Lab)
+# 🎯 Objective
 
-Tool Used: Oracle SQL Developer
-
-🎯 Objective
-
-The objective of this lab is to understand and implement INNER JOIN operations to retrieve meaningful information from multiple related tables using primary–foreign key relationships.
+To understand and implement **INNER JOIN operations** for retrieving meaningful data from multiple related tables using primary–foreign key relationships.
 
 This lab focuses on:
 
-Combining data from multiple tables
+- Multi-table data retrieval  
+- Use of table aliases  
+- Analytical queries with `GROUP BY`  
+- Filtering & sorting using `JOIN`  
+- Read-only SQL queries (no table modification)
 
-Using table aliases for readability
+---
 
-Performing analytical queries using GROUP BY
+# 🗂 Database Tables Used
 
-Applying filtering and sorting with JOIN
+This lab is based on:
 
-Executing read-only queries without modifying database structure
+- Lab 02 – ER Model to Relational Schema  
+- Lab 03 – Data Insertion  
 
-🗂 Database Tables Used
+### Tables Used:
 
-This lab is based on the schema created in:
+- `Department`
+- `Student`
+- `Faculty`
+- `Course`
+- `Enrollment`
 
-Lab 02 – ER Model to Relational Schema
+---
 
-Lab 03 – Data Insertion
+# 🔗 INNER JOIN Concept
 
-The following tables were used:
+**INNER JOIN** returns only those records that have matching values in both tables.
 
-Department
+### Example Query
 
-Student
-
-Faculty
-
-Course
-
-Enrollment
-
-🔗 JOIN Concept Used
-
-Only INNER JOIN was used in this lab (as instructed).
-
-INNER JOIN returns only those records that have matching values in both tables.
-
-Example Structure
+```sql
 SELECT S.Name, C.CourseName
 FROM Student S
 INNER JOIN Enrollment E
 ON S.StudentID = E.StudentID
 INNER JOIN Course C
 ON E.CourseID = C.CourseID;
-🧩 Lab Work Breakdown
-🔹 Part A – Student & Enrollment Relationship
+```
 
-Displayed student details along with enrolled courses
+---
 
-Retrieved semester and grade information
+# 🧩 Lab Implementation Breakdown
 
-🔹 Part B – Course & Faculty Relationship
+## 🔹 Part A – Student & Enrollment Relationship
+- Displayed student details with enrolled courses  
+- Retrieved semester and grade information  
 
-Displayed courses with respective faculty names
+## 🔹 Part B – Course & Faculty Relationship
+- Displayed course name with faculty  
+- Retrieved faculty designation with courses  
 
-Retrieved faculty designation with course details
+## 🔹 Part C – Student–Course–Enrollment JOIN
+- Joined three tables together  
+- Extracted combined academic information  
 
-🔹 Part C – Student–Course–Enrollment Relationship
+## 🔹 Part D – Department-Based JOIN Queries
+- Linked students and faculty with department details  
+- Displayed department-wise course list  
 
-Joined three tables together
+## 🔹 Part E – Filtering & Sorting with JOIN
+- Applied `WHERE` clause with JOIN  
+- Used `ORDER BY` for sorting  
 
-Extracted combined academic information
+## 🔹 Part F – Analytical JOIN Queries
+- Counted students enrolled in each course  
+- Counted courses taught by each faculty  
+- Department-wise student count  
+- Retrieved maximum grade per course  
 
-🔹 Part D – Department-Based JOIN Queries
+---
 
-Linked students and faculty with department details
+# 🛠 SQL Concepts Practiced
 
-Displayed department-wise course list
+- INNER JOIN  
+- Table Aliases  
+- GROUP BY  
+- Aggregate Functions (`COUNT`, `MAX`)  
+- ORDER BY  
+- WHERE Clause with JOIN  
+- Primary Key – Foreign Key relationships  
 
-🔹 Part E – Filtering & Sorting with JOIN
+---
 
-Applied WHERE clause with JOIN
+# 🧠 Key Learning Outcomes
 
-Used ORDER BY for structured output
+- Understood relational database normalization  
+- Strengthened PK–FK relationship understanding  
+- Learned multi-table JOIN implementation  
+- Improved analytical SQL query writing  
+- Practiced clean and readable query structure  
 
-🔹 Part F – Analytical JOIN Queries
+---
 
-Counted students enrolled in each course
+# 📌 Conclusion
 
-Counted courses taught by each faculty
+Lab 05 successfully demonstrated the implementation of **INNER JOIN operations** in Oracle SQL.
 
-Department-wise student count
+This lab forms a strong foundation for advanced SQL concepts such as:
 
-Retrieved maximum grade per course
+- Subqueries  
+- OUTER JOIN  
+- Views  
+- Indexing  
+- Stored Procedures  
 
-🛠 SQL Concepts Practiced
+---
 
-INNER JOIN
+# 📂 Folder Structure
 
-Table Aliases
+```
+DBMS-SQL-Lab
+│
+└── Lab-05_Joins
+    │
+    ├── README.md
+    ├── Lab_05_Join_Queries.sql
+    ├── Lab_05_Question.pdf
+    └── CSV/   (Optional – if data files are used)
+```
 
-GROUP BY
+### 📌 Description
 
-Aggregate Functions (COUNT, MAX)
+- **README.md** → Contains lab objective, explanation, and summary  
+- **Lab_05_Join_Queries.sql** → Contains all INNER JOIN queries (Part A–F)  
+- **Lab_05_Question.pdf** → Official lab question sheet  
+- **CSV/** → Dataset files (only if used)
 
-ORDER BY
+---
 
-WHERE Clause with JOIN
+---
 
-Primary Key – Foreign Key relationships
-
-🧠 Key Learning Outcomes
-
-Understood how relational databases minimize redundancy
-
-Learned how to retrieve meaningful data from multiple related tables
-
-Practiced multi-table JOIN queries
-
-Improved readability using table aliases
-
-Strengthened analytical SQL query writing skills
-
-📌 Conclusion
-
-Lab 05 successfully demonstrated the implementation of INNER JOIN operations in Oracle SQL.
-
-This lab enhanced understanding of relational schema design and multi-table data retrieval while maintaining read-only query constraints.
-
-The knowledge gained in this lab forms a strong foundation for advanced SQL concepts such as:
-
-Subqueries
-
-OUTER JOIN
-
-Views
-
-Indexing
-
-Stored Procedures
+### ✅ Lab 05 Completed Successfully
