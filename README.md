@@ -1,44 +1,35 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DBMS%20SQL%20LAB&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Oracle%20Database%20%7C%20B.Tech%20CSE%20%7C%205th%20Semester&descAlignY=55&descSize=16"/>
+# 📘 DBMS SQL Lab – Oracle Database
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=🎓+Ashish+Srivastava;💾+Database+Management+Systems+Lab;🏛️+B.P.+Mandal+College+of+Engineering;⚡+Oracle+SQL+Developer+%7C+SQL*Plus;🚀+Building+One+Lab+at+a+Time..." alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=700&height=60&lines=🎓+Ashish+Srivastava;💾+Database+Management+Systems+Lab;🏛️+B.P.+Mandal+College+of+Engineering;⚡+Oracle+SQL+Developer+%7C+SQL*Plus)](https://git.io/typing-svg)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=SELECT+*+FROM+knowledge+WHERE+passion+%3D+TRUE;INSERT+INTO+skills+VALUES+('Oracle%2C+SQL%2C+DBMS');UPDATE+career+SET+level+%3D+level+%2B+1;COMMIT%3B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&height=40&lines=SELECT+*+FROM+knowledge+WHERE+passion+%3D+TRUE;INSERT+INTO+skills+VALUES+('Oracle%2C+SQL%2C+DBMS');UPDATE+career+SET+level+%3D+level+%2B+1;COMMIT%3B)](https://git.io/typing-svg)
 
 <br/>
 
 ![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![BTech](https://img.shields.io/badge/B.Tech-CSE-2ECC71?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Semester](https://img.shields.io/badge/Semester-5th-FF6B35?style=for-the-badge&logo=bookstack&logoColor=white)
-![Labs](https://img.shields.io/badge/Labs%20Completed-06%20%2F%20ongoing-8E44AD?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Status](https://img.shields.io/badge/Status-🔥%20Active-00C851?style=for-the-badge)
+![SQL](https://img.shields.io/badge/Language-SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![BTech](https://img.shields.io/badge/B.Tech-CSE-2ECC71?style=for-the-badge&logoColor=white)
+![Semester](https://img.shields.io/badge/Semester-5th-FF6B35?style=for-the-badge&logoColor=white)
+![Labs](https://img.shields.io/badge/Labs%20Completed-06-8E44AD?style=for-the-badge&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-00C851?style=for-the-badge)
 
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/ashish-srivastava-tech?label=Follow&style=social)](https://github.com/ashish-srivastava-tech)
 [![GitHub stars](https://img.shields.io/github/stars/ashish-srivastava-tech/DBMS-SQL-LAB?style=social)](https://github.com/ashish-srivastava-tech/DBMS-SQL-LAB)
 [![GitHub forks](https://img.shields.io/github/forks/ashish-srivastava-tech/DBMS-SQL-LAB?style=social)](https://github.com/ashish-srivastava-tech/DBMS-SQL-LAB)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ashish-srivastava-tech.DBMS-SQL-LAB&left_color=blueviolet&right_color=green)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 🏛️ B.P. Mandal College of Engineering, Madhepura, Bihar
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Table of Contents
+### 🏛️ B.P. Mandal College of Engineering, Madhepura, Bihar
+
+</div>
+
+---
+
+## 📑 Table of Contents
 
 <details open>
 <summary><b>📋 Click to expand / collapse</b></summary>
@@ -60,9 +51,7 @@
 
 </details>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 👨‍🎓 Student Information
 
@@ -85,40 +74,28 @@
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🎯 Repository Overview
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 This repository contains **structured, well-documented DBMS laboratory work** built on **Oracle Database** at B.P. Mandal College of Engineering.
 
 What makes this repository special:
 
 - 🔴 **Real Data** — Uses actual faculty, courses & student records from BPMCE
-- 🟠 **Oracle-Native** — Written in pure Oracle SQL, not MySQL/PostgreSQL
+- 🟠 **Oracle-Native** — Written in pure Oracle SQL, not MySQL or PostgreSQL
 - 🟡 **Verified Outputs** — Every query result exported and stored as CSV
 - 🟢 **Clean Architecture** — Consistent folder structure across all labs
-- 🔵 **Documented** — Every lab has its own detailed README
-- 🟣 **Progressive** — Each lab builds on the previous schema
+- 🔵 **Fully Documented** — Every lab has its own detailed README
+- 🟣 **Progressive Build** — Each lab builds directly on the previous schema
 
-<br clear="right"/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 📊 Lab Progress Dashboard
 
 <div align="center">
 
-### 🔥 Overall Completion
-
-![Progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
-
-| Lab | Title | Queries | Output CSVs | Status |
+| Lab | Title | Queries | CSV Outputs | Status |
 |:---:|:------|:-------:|:-----------:|:------:|
 | `01` | DDL & DML Operations | 18 | — | ![Done](https://img.shields.io/badge/✅-Done-2ECC71?style=flat-square) |
 | `02` | ER Model & Relational Schema | 5 tables | ER Diagram | ![Done](https://img.shields.io/badge/✅-Done-2ECC71?style=flat-square) |
@@ -131,28 +108,24 @@ What makes this repository special:
 
 </div>
 
-<br/>
-
 <details>
-<summary><b>📈 Lab Stats at a Glance</b></summary>
+<summary><b>📈 Repository Stats at a Glance</b></summary>
 <br/>
 
 ```
-Total Queries Written  : 133+
-Total CSV Outputs      : 38
-Tables in Schema       : 5
-Real Data Records      : 150+
-Labs Completed         : 6
-Faculty Data Entries   : 26 (real BPMCE faculty)
-Student Data Entries   : 10 (real classmates)
-Departments Covered    : 7
+Total Queries Written  :  133+
+Total CSV Outputs      :  38
+Tables in Schema       :  5
+Real Data Records      :  150+
+Labs Completed         :  6
+Faculty Data Entries   :  26  (real BPMCE faculty)
+Student Data Entries   :  10  (real classmates)
+Departments Covered    :  7
 ```
 
 </details>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🗂 Repository Structure
 
@@ -163,20 +136,20 @@ Departments Covered    : 7
 📦 DBMS-SQL-LAB/
 │
 ├── 📁 Lab-01-DDL-DML/
-│   ├── 📄 lab1_solution.sql        ← DDL + DML queries
-│   ├── 📄 questions.pdf            ← Faculty question paper
+│   ├── 📄 lab1_solution.sql          ← DDL + DML queries
+│   ├── 📄 questions.pdf              ← Faculty question paper
 │   └── 📄 README.md
 │
 ├── 📁 Lab-02-ER-Diagram/
-│   ├── 📄 Lab_02_Tables.sql        ← CREATE TABLE with constraints
-│   ├── 🖼️  ER_Diagram_Lab_02.png   ← ER diagram image
-│   ├── 📐 ER_Diagram_Lab_02.drawio ← Editable draw.io source
+│   ├── 📄 Lab_02_Tables.sql          ← CREATE TABLE with constraints
+│   ├── 🖼️  ER_Diagram_Lab_02.png     ← ER diagram image
+│   ├── 📐 ER_Diagram_Lab_02.drawio   ← Editable draw.io source
 │   ├── 📄 questions.pdf
 │   └── 📄 README.md
 │
 ├── 📁 Lab-03-ER-Relation/
 │   ├── 📁 SQL/
-│   │   └── 📄 Lab_03_Solution.sql  ← INSERT queries (real BPMCE data)
+│   │   └── 📄 Lab_03_Solution.sql    ← INSERT queries (real BPMCE data)
 │   ├── 📁 Data_Files/
 │   │   ├── 📊 Student_data.csv
 │   │   ├── 📊 Faculty_data.csv
@@ -184,34 +157,32 @@ Departments Covered    : 7
 │   │   ├── 📊 Department_data.csv
 │   │   └── 📊 Enrollment_data.csv
 │   ├── 📁 Questions/
-│   ├── 📁 Reference_Material/      ← College timetables (2nd, 5th, 7th sem)
+│   ├── 📁 Reference_Material/        ← College timetables (2nd, 5th, 7th sem)
 │   └── 📄 README.md
 │
 ├── 📁 Lab-04-Data-Retrieval/
-│   ├── 📄 Lab_04_Solution.sql      ← 23 SELECT queries
-│   ├── 📁 CSV/                     ← 18 verified SQL Developer outputs
+│   ├── 📄 Lab_04_Solution.sql        ← 23 SELECT queries
+│   ├── 📁 CSV/                       ← 18 verified SQL Developer outputs
 │   ├── 📄 Lab_04_Questions.pdf
 │   └── 📄 README.md
 │
 ├── 📁 Lab-05-Joins/
-│   ├── 📄 Lab_05_solution.sql      ← 20 INNER JOIN queries
-│   ├── 📁 CSV/                     ← 20 verified SQL Developer outputs
+│   ├── 📄 Lab_05_solution.sql        ← 20 INNER JOIN queries
+│   ├── 📁 CSV/                       ← 20 verified SQL Developer outputs
 │   ├── 📄 DB-Lab-5_Question.pdf
 │   └── 📄 README.md
 │
 ├── 📁 Lab-06-Data-Aggregation/
-│   ├── 📄 Lab_06_Solution.sql      ← 22 GROUP BY + HAVING queries
+│   ├── 📄 Lab_06_Solution.sql        ← 22 GROUP BY + HAVING queries
 │   ├── 📄 DB-Lab-6.pdf
 │   └── 📄 README.md
 │
-└── 📄 README.md                    ← You are here 👈
+└── 📄 README.md                      ← You are here 👈
 ```
 
 </details>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🔬 Labs in Detail
 
@@ -220,8 +191,6 @@ Departments Covered    : 7
 <br/>
 
 > 🎯 **Objective:** Master fundamental SQL Data Definition and Data Manipulation commands using Oracle SQL.
-
-**Topics Covered:**
 
 ```sql
 -- DDL: Defining database structure
@@ -283,7 +252,7 @@ Student    ──M────M── Course  →  Resolved via Enrollment table
 <summary><b>🔹 Lab 03 – Real Database Implementation</b></summary>
 <br/>
 
-> 🎯 **Objective:** Populate the schema with **authentic** data from B.P. Mandal College of Engineering.
+> 🎯 **Objective:** Populate the schema with authentic data from B.P. Mandal College of Engineering.
 
 **Data Sources Used:**
 - 🌐 Official BPMCE college website
@@ -292,9 +261,8 @@ Student    ──M────M── Course  →  Resolved via Enrollment table
 - 👥 Class roll list
 
 **Data Summary:**
-
 ```
-Departments  :  7  (Civil, Mechanical, CSE, EEE, 3DAG, CEwCA, CSE-AIML)
+Departments  :  7   (Civil, Mechanical, CSE, EEE, 3DAG, CEwCA, CSE-AIML)
 Faculty      :  26  (real names, designations, email IDs)
 Students     :  10  (CSE batch 2023)
 Courses      :  5   (AI, DBMS, FLAT, SE, PSD)
@@ -309,14 +277,14 @@ Enrollments  :  50  (10 students × 5 courses each)
 <summary><b>🔹 Lab 04 – Data Retrieval (23 Queries)</b></summary>
 <br/>
 
-> 🎯 **Objective:** Master SELECT queries — aliases, filtering, sorting, limiting, and computed columns.
+> 🎯 **Objective:** Master SELECT queries — aliases, filtering, sorting, limiting and computed columns.
 
 ```sql
 -- Oracle-specific syntax used:
-FETCH FIRST 3 ROWS ONLY                          -- instead of LIMIT
-FLOOR(MONTHS_BETWEEN(SYSDATE, DateOfBirth)/12)   -- calculate age
-EXTRACT(YEAR FROM DateOfBirth)                    -- extract year
-SUBSTR(Email, INSTR(Email,'@')+1)                -- extract email domain
+FETCH FIRST 3 ROWS ONLY                           -- instead of LIMIT
+FLOOR(MONTHS_BETWEEN(SYSDATE, DateOfBirth) / 12)  -- calculate age
+EXTRACT(YEAR FROM DateOfBirth)                     -- extract year
+SUBSTR(Email, INSTR(Email, '@') + 1)               -- extract email domain
 ```
 
 **Parts:** A (Aliases) · B (WHERE) · C (Sorting & Limiting) · D (Derived Output)
@@ -368,9 +336,7 @@ ORDER BY Total_Students DESC;
 
 </details>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 📐 Database Schema
 
@@ -380,62 +346,63 @@ ORDER BY Total_Students DESC;
 ┌─────────────────────┐
 │     DEPARTMENT      │
 │─────────────────────│
-│ PK DepartmentID     │◄────────────────────────────────────┐
-│    DepartmentName   │                                     │
-│    OfficeLocation   │                                     │
-└─────────────────────┘                                     │
-         │ 1                                                 │
-         │                                                   │
-    ┌────┴──────┬──────────────────────┐                    │
-    │ M         │ M                    │ M                   │
-    ▼           ▼                      ▼                     │
-┌──────────┐ ┌──────────┐    ┌────────────────┐             │
-│ STUDENT  │ │ FACULTY  │    │    COURSE      │             │
-│──────────│ │──────────│    │────────────────│             │
-│PK StuID  │ │PK FacID  │◄───│PK  CourseID    │             │
-│   Name   │ │   Name   │ 1  │    CourseName  │─────────────┘
-│   DOB    │ │   Desig. │    │    Credits     │
-│   Gender │ │   Email  │    │ FK DeptID      │
-│   Contact│ │FK DeptID │    │ FK FacultyID   │
-│FK DeptID │ └──────────┘    └────────────────┘
-└──────────┘                          │
-    │ M                               │ M
-    │                                 │
-    └──────────┬──────────────────────┘
-               │ M+M
-               ▼
-    ┌─────────────────────┐
-    │     ENROLLMENT      │
-    │─────────────────────│
-    │ PK FK StudentID     │
-    │ PK FK CourseID      │
-    │       Semester      │
-    │       Grade         │
-    └─────────────────────┘
+│ PK DepartmentID     │◄──────────────────────────┐
+│    DepartmentName   │                            │
+│    OfficeLocation   │                            │
+└──────────┬──────────┘                            │
+           │ 1                                     │
+     ┌─────┴──────┬──────────────────┐             │
+     │ M          │ M                │ M           │
+     ▼            ▼                  ▼             │
+┌──────────┐ ┌──────────┐  ┌─────────────────┐    │
+│ STUDENT  │ │ FACULTY  │  │     COURSE      │    │
+│──────────│ │──────────│  │─────────────────│    │
+│PK StuID  │ │PK FacID  │◄─│PK CourseID      │    │
+│   Name   │ │   Name   │  │   CourseName    │────┘
+│   DOB    │ │   Desig. │  │   Credits       │
+│   Gender │ │   Email  │  │FK DeptID        │
+│   Contact│ │FK DeptID │  │FK FacultyID     │
+│FK DeptID │ └──────────┘  └─────────────────┘
+└────┬─────┘                        │
+     │ M                            │ M
+     └──────────────┬───────────────┘
+                    ▼
+       ┌────────────────────────┐
+       │       ENROLLMENT       │
+       │────────────────────────│
+       │ PK FK  StudentID       │
+       │ PK FK  CourseID        │
+       │        Semester        │
+       │        Grade           │
+       └────────────────────────┘
 ```
+
+| Table | Primary Key | Foreign Keys |
+|:------|:------------|:-------------|
+| Department | DepartmentID | — |
+| Student | StudentID | DepartmentID |
+| Faculty | FacultyID | DepartmentID |
+| Course | CourseID | DepartmentID, FacultyID |
+| Enrollment | (StudentID, CourseID) | StudentID, CourseID |
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🛠 Tech Stack
 
 <div align="center">
 
-![Oracle](https://img.shields.io/badge/Oracle-Database%2021c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Developer](https://img.shields.io/badge/Oracle-SQL%20Developer-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
-![draw.io](https://img.shields.io/badge/draw.io-ER%20Diagrams-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/SQL%20Developer-GUI%20Tool-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
+![drawio](https://img.shields.io/badge/draw.io-ER%20Diagrams-F08705?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)
-![CSV](https://img.shields.io/badge/CSV-Query%20Outputs-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/CSV-Query%20Outputs-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🧠 Skills & Concepts
 
@@ -447,7 +414,7 @@ ORDER BY Total_Students DESC;
 | **DML** | `INSERT` `UPDATE` `DELETE` `SELECT` |
 | **Filtering** | `WHERE` `AND` `OR` `IN` `BETWEEN` `LIKE` |
 | **Sorting** | `ORDER BY ASC/DESC` `FETCH FIRST` |
-| **Functions** | `MONTHS_BETWEEN` `EXTRACT` `SUBSTR` `INSTR` `FLOOR` |
+| **Functions** | `MONTHS_BETWEEN` `EXTRACT` `SUBSTR` `INSTR` `FLOOR` `SYSDATE` |
 | **Joins** | `INNER JOIN` (2-table & 3-table) |
 | **Aggregation** | `COUNT` `MAX` `MIN` `SUM` `AVG` |
 | **Grouping** | `GROUP BY` `HAVING` |
@@ -456,9 +423,7 @@ ORDER BY Total_Students DESC;
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## ⚠️ Oracle vs MySQL
 
@@ -469,16 +434,14 @@ ORDER BY Total_Students DESC;
 | Limit rows | `LIMIT 5` | `FETCH FIRST 5 ROWS ONLY` |
 | Current date | `NOW()` | `SYSDATE` |
 | String type | `VARCHAR` | `VARCHAR2` |
-| Auto increment | `AUTO_INCREMENT` | `SEQUENCE` + `TRIGGER` |
 | Age from DOB | `DATEDIFF()` | `MONTHS_BETWEEN()` |
-| Create DB | `CREATE DATABASE` | ❌ Not supported (use schema) |
+| Create database | `CREATE DATABASE` | ❌ Not supported (schema-based) |
 | Extract year | `YEAR(col)` | `EXTRACT(YEAR FROM col)` |
+| Extract domain | `SUBSTRING_INDEX()` | `SUBSTR()` + `INSTR()` |
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🚀 Roadmap & Future Work
 
@@ -495,7 +458,7 @@ graph LR
     I --> J[🔜 Lab 10\nPL/SQL]
 ```
 
-**Upcoming Labs:**
+**Upcoming topics:**
 - [ ] 🔜 Subqueries & Nested SELECT
 - [ ] 🔜 OUTER JOIN (LEFT, RIGHT, FULL)
 - [ ] 🔜 Views & Virtual Tables
@@ -507,9 +470,7 @@ graph LR
 - [ ] 🔜 Cursors
 - [ ] 🔜 Exception Handling in PL/SQL
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 💡 How to Use
 
@@ -524,32 +485,30 @@ git clone https://github.com/ashish-srivastava-tech/DBMS-SQL-LAB.git
 
 **Step 2 — Open Oracle SQL Developer and connect to your schema**
 
-**Step 3 — Run in this order:**
+**Step 3 — Run labs in this exact order:**
 ```
-1️⃣  Lab-02 → Lab_02_Tables.sql       (creates all tables)
-2️⃣  Lab-03 → Lab_03_Solution.sql     (inserts real data)
-3️⃣  Lab-04 → Lab_04_Solution.sql     (SELECT queries)
-4️⃣  Lab-05 → Lab_05_solution.sql     (JOIN queries)
-5️⃣  Lab-06 → Lab_06_Solution.sql     (GROUP BY queries)
+1️⃣  Lab-02  →  Lab_02_Tables.sql      (creates all 5 tables)
+2️⃣  Lab-03  →  Lab_03_Solution.sql    (inserts real BPMCE data)
+3️⃣  Lab-04  →  Lab_04_Solution.sql    (SELECT queries)
+4️⃣  Lab-05  →  Lab_05_solution.sql    (INNER JOIN queries)
+5️⃣  Lab-06  →  Lab_06_Solution.sql    (GROUP BY & HAVING queries)
 ```
 
-**Step 4 — Execution shortcuts in SQL Developer:**
+**Step 4 — SQL Developer shortcuts:**
 
 | Key | Action |
 |:----|:-------|
 | `F5` | Run entire script |
 | `F9` | Run single query |
-| `Ctrl+Enter` | Run current statement |
+| `Ctrl + Enter` | Run current statement |
 
 </details>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep+Learning+•+Keep+Building&fontSize=20&fontColor=fff&animation=twinkling"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐+Star+this+repo;Built+with+❤️+by+Ashish+Srivastava;B.P.+Mandal+College+of+Engineering)](https://git.io/typing-svg)
 
 <br/>
 
@@ -559,9 +518,5 @@ git clone https://github.com/ashish-srivastava-tech/DBMS-SQL-LAB.git
 
 **Made with ❤️ by Ashish Srivastava**
 *B.P. Mandal College of Engineering, Madhepura, Bihar*
-
-<br/>
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ashish-srivastava-tech.DBMS-SQL-LAB&left_color=blueviolet&right_color=green&left_text=Repo%20Visitors)
 
 </div>
