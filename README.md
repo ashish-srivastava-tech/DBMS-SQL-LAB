@@ -57,7 +57,8 @@ DBMS-SQL-Lab
 ├── Lab-02_ER_Model
 ├── Lab-03_Database_Implementation
 ├── Lab-04_Data_Retrieval
-├── Lab-05_Joins
+├── Lab-05-Joins
+├── Lab-05-Data Aggregation Using GROUP BY and HAVING
 └── README.md
 ```
 
@@ -109,6 +110,15 @@ DBMS-SQL-Lab
 
 ---
 
+## 🔹 Lab 06 – Data Aggregation Using GROUP BY and HAVING
+- Aggregate Functions: COUNT(), MAX(), MIN()
+- GROUP BY on single tables
+- HAVING clause for filtering groups
+- GROUP BY with INNER JOIN
+- Analytical grouped queries
+
+---
+
 # 🛠 Tools & Technologies Used
 
 - 🟥 Oracle Database  
@@ -157,3 +167,4 @@ All tables are created under the connected user schema in Oracle.
 ### 📚 Structured | Clean | Academic | Oracle-Based
 
 </div>
+
