@@ -4,8 +4,8 @@
 <!--              💀 GAAND FAT HEADER BEGINS 💀                  -->
 <!-- ============================================================ -->
 
-<!-- 🌊 ANIMATED CYLINDER WAVE HEADER — FULL WIDTH -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=DBMS%20SQL%20LAB&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=50&desc=Oracle%20%7C%20B.Tech%20CSE%20%7C%205th%20Sem%20%7C%20BPMCE%20Madhepura&descAlignY=72&descSize=18&descColor=ffffff"/>
+<!-- 🌊 ANIMATED WAVING HEADER — FULL WIDTH -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=DBMS%20SQL%20LAB&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Oracle%20%7C%20B.Tech%20CSE%20%7C%205th%20Sem%20%7C%20BPMCE%20Madhepura&descAlignY=60&descSize=18&descColor=ffffff"/>
 
 <br/>
 
