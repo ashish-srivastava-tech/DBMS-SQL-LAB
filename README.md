@@ -1,298 +1,567 @@
 <div align="center">
 
-# 📘 DBMS SQL Lab – Oracle Database
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DBMS%20SQL%20LAB&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Oracle%20Database%20%7C%20B.Tech%20CSE%20%7C%205th%20Semester&descAlignY=55&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Database+Management+Systems+Lab;Oracle+SQL+Developer+%7C+SQL%2BPlus;B.Tech+CSE+%7C+5th+Semester;B.P.+Mandal+College+of+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=🎓+Ashish+Srivastava;💾+Database+Management+Systems+Lab;🏛️+B.P.+Mandal+College+of+Engineering;⚡+Oracle+SQL+Developer+%7C+SQL*Plus;🚀+Building+One+Lab+at+a+Time..." alt="Typing SVG" />
 
----
+<br/>
 
-![Oracle](https://img.shields.io/badge/Database-Oracle-red?style=for-the-badge&logo=oracle)
-![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge&logo=databricks)
-![Course](https://img.shields.io/badge/B.Tech-CSE-success?style=for-the-badge&logo=academia)
-![Semester](https://img.shields.io/badge/Semester-5th-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![Labs](https://img.shields.io/badge/Labs%20Completed-06-blueviolet?style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=SELECT+*+FROM+knowledge+WHERE+passion+%3D+TRUE;INSERT+INTO+skills+VALUES+('Oracle%2C+SQL%2C+DBMS');UPDATE+career+SET+level+%3D+level+%2B+1;COMMIT%3B)](https://git.io/typing-svg)
 
----
+<br/>
 
-🏫 **B.P. Mandal College of Engineering, Madhepura, Bihar**
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![BTech](https://img.shields.io/badge/B.Tech-CSE-2ECC71?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Semester](https://img.shields.io/badge/Semester-5th-FF6B35?style=for-the-badge&logo=bookstack&logoColor=white)
+![Labs](https://img.shields.io/badge/Labs%20Completed-06%20%2F%20ongoing-8E44AD?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Status](https://img.shields.io/badge/Status-🔥%20Active-00C851?style=for-the-badge)
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/ashish-srivastava-tech?label=Follow&style=social)](https://github.com/ashish-srivastava-tech)
+[![GitHub stars](https://img.shields.io/github/stars/ashish-srivastava-tech/DBMS-SQL-LAB?style=social)](https://github.com/ashish-srivastava-tech/DBMS-SQL-LAB)
+[![GitHub forks](https://img.shields.io/github/forks/ashish-srivastava-tech/DBMS-SQL-LAB?style=social)](https://github.com/ashish-srivastava-tech/DBMS-SQL-LAB)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ashish-srivastava-tech.DBMS-SQL-LAB&left_color=blueviolet&right_color=green)
 
 </div>
 
----
-
-## 📑 Table of Contents
-
-- [👨‍🎓 Student Information](#-student-information)
-- [🎯 Repository Overview](#-repository-overview)
-- [🗂 Repository Structure](#-repository-structure)
-- [🧩 Labs Summary](#-labs-summary)
-- [🔬 Labs in Detail](#-labs-in-detail)
-- [🛠 Tools & Technologies](#-tools--technologies)
-- [🧠 Key Concepts Practiced](#-key-concepts-practiced)
-- [📐 Database Schema](#-database-schema)
-- [⚠ Important Note](#-important-note)
-- [🚀 Future Work](#-future-work)
-
----
-
-## 👨‍🎓 Student Information
-
-| Field | Details |
-|:------|:---------|
-| **Name** | Ashish Srivastava |
-| **Program** | B.Tech – Computer Science & Engineering |
-| **Institution** | B.P. Mandal College of Engineering, Madhepura |
-| **Semester** | 5th |
-| **Subject** | Database Management Systems Lab |
-| **Tool Used** | Oracle SQL Developer / SQL\*Plus |
-| **Purpose** | Academic Laboratory Submission |
-
----
-
-## 🎯 Repository Overview
-
-This repository contains structured **Database Management Systems (DBMS)** laboratory work performed using **Oracle Database** at B.P. Mandal College of Engineering, Madhepura, Bihar.
-
-All SQL programs are:
-
-- ✅ Written in standard **Oracle-compatible SQL**
-- ✅ Executed using **Oracle SQL Developer / SQL\*Plus**
-- ✅ Structured **lab-wise** for clarity and maintainability
-- ✅ Based on a **real college database** with authentic faculty and course data
-- ✅ Designed following proper **relational database principles**
-
----
-
-## 🗂 Repository Structure
-
-Each lab folder follows a consistent structure:
-
-```
-DBMS-SQL-LAB/
-│
-├── Lab-01-DDL-DML/
-│   ├── lab1_solution.sql
-│   ├── questions.pdf
-│   └── README.md
-│
-├── Lab-02-ER-Diagram/
-│   ├── Lab_02_Tables.sql
-│   ├── ER_Diagram_Lab_02.png
-│   ├── ER_Diagram_Lab_02.drawio
-│   ├── questions.pdf
-│   └── README.md
-│
-├── Lab-03-ER-Relation/
-│   ├── SQL/
-│   │   └── Lab_03_Solution.sql
-│   ├── Data_Files/
-│   │   ├── Student_data.csv
-│   │   ├── Faculty_data.csv
-│   │   ├── Course_data.csv
-│   │   ├── Department_data.csv
-│   │   └── Enrollment_data.csv
-│   ├── Questions/
-│   │   └── Lab_03_Questions.pdf
-│   ├── Reference_Material/
-│   └── README.md
-│
-├── Lab-04-Data-Retrieval/
-│   ├── Lab_04_Solution.sql
-│   ├── CSV/                    ← SQL Developer query outputs
-│   ├── Lab_04_Questions.pdf
-│   └── README.md
-│
-├── Lab-05-Joins/
-│   ├── Lab_05_solution.sql
-│   ├── CSV/                    ← SQL Developer query outputs
-│   ├── DB-Lab-5_Question.pdf
-│   └── README.md
-│
-├── Lab-06-Data-Aggregation/
-│   ├── Lab_06_Solution.sql
-│   ├── DB-Lab-6.pdf
-│   └── README.md
-│
-└── README.md
-```
-
----
-
-## 🧩 Labs Summary
-
-| # | Lab Title | Key Topics | Status |
-|:-:|:----------|:-----------|:------:|
-| 01 | DDL & DML Operations | CREATE, ALTER, INSERT, UPDATE, DELETE | ✅ Done |
-| 02 | ER Model & Relational Schema | ER Diagram, Schema Design, FK Constraints | ✅ Done |
-| 03 | Database Implementation | Real Data Insertion, CSV Files, PK/FK | ✅ Done |
-| 04 | Data Retrieval | SELECT, WHERE, ORDER BY, FETCH FIRST, Aliases | ✅ Done |
-| 05 | Data Retrieval Using INNER JOIN | Multi-table JOIN, GROUP BY, Aggregates | ✅ Done |
-| 06 | Data Aggregation | GROUP BY, HAVING, COUNT, MAX, MIN | ✅ Done |
-
----
-
-## 🔬 Labs in Detail
-
-### 🔹 Lab 01 – DDL & DML Operations
-> **Objective:** Practice fundamental SQL Data Definition and Data Manipulation commands.
-
-- Table Creation using `CREATE TABLE`
-- Schema modification using `ALTER TABLE`
-- Column renaming using `RENAME COLUMN`
-- `INSERT`, `UPDATE`, `DELETE` operations
-- Basic `SELECT` queries with `WHERE` filtering
-
----
-
-### 🔹 Lab 02 – ER Model & Relational Schema
-> **Objective:** Design an ER diagram and convert it into a relational schema.
-
-- ER Diagram designed using **draw.io**
-- Identified entities: Student, Faculty, Course, Department, Enrollment
-- Many-to-Many resolved via Enrollment junction table
-- All tables created with proper `PRIMARY KEY` and `FOREIGN KEY` constraints
-
----
-
-### 🔹 Lab 03 – Database Implementation
-> **Objective:** Populate the college database with real-world data from B.P. Mandal College of Engineering.
-
-- Data sourced from official college website, timetables, and department records
-- 7 Departments, 26 Faculty, 10+ Students, 5 Courses inserted
-- 50 Enrollment records with semester and grade data
-- Full FK consistency maintained across all tables
-
----
-
-### 🔹 Lab 04 – Data Retrieval (Read-Only Queries)
-> **Objective:** Retrieve and analyze data using SELECT queries without modifying the database.
-
-- Column selection with `AS` aliases
-- Filtering with `WHERE` clause
-- Sorting using `ORDER BY ASC / DESC`
-- Limiting results using `FETCH FIRST n ROWS ONLY` *(Oracle syntax)*
-- Derived columns using `EXTRACT`, `MONTHS_BETWEEN`, `SUBSTR`, `INSTR`
-
----
-
-### 🔹 Lab 05 – Data Retrieval Using INNER JOIN
-> **Objective:** Retrieve meaningful data from multiple related tables using INNER JOIN.
-
-- 2-table and 3-table `INNER JOIN` queries
-- Student–Enrollment–Course relationship traversal
-- Department-based JOIN queries
-- Filtering and sorting with JOIN + `WHERE` + `ORDER BY`
-- Analytical queries using `GROUP BY` + `COUNT()` + `MAX()`
-
----
-
-### 🔹 Lab 06 – Data Aggregation Using GROUP BY and HAVING
-> **Objective:** Summarize and analyze data using aggregate functions and grouping clauses.
-
-- Aggregate functions: `COUNT()`, `MAX()`, `MIN()`, `SUM()`, `AVG()`
-- `GROUP BY` on single tables (dept-wise, grade-wise, semester-wise)
-- `HAVING` clause to filter grouped results
-- `GROUP BY` combined with `INNER JOIN`
-- Analytical grouped queries with `ORDER BY`
-
----
-
-## 🛠 Tools & Technologies
-
-| Tool | Purpose |
-|:-----|:--------|
-| ![Oracle](https://img.shields.io/badge/Oracle-Database-red?logo=oracle) | Primary database engine |
-| Oracle SQL Developer | GUI for writing and executing SQL |
-| SQL\*Plus | Command-line SQL execution |
-| draw.io (diagrams.net) | ER Diagram design |
-| Microsoft Excel / CSV | Data collection and formatting |
-| Git & GitHub | Version control and documentation |
-
----
-
-## 🧠 Key Concepts Practiced
-
-```
-📌 Relational Database Design         📌 ER Modeling & Schema Conversion
-📌 Primary Key & Foreign Key          📌 DDL & DML Commands
-📌 Data Retrieval & Filtering         📌 Aliases & Derived Columns
-📌 Multi-table JOIN Operations        📌 Aggregate Functions
-📌 GROUP BY & HAVING Clauses          📌 Oracle-Specific SQL Syntax
-```
-
----
-
-## 📐 Database Schema
-
-The college database used across all labs consists of **5 related tables**:
-
-```
-Department (1) ──────< (M) Student
-Department (1) ──────< (M) Faculty
-Department (1) ──────< (M) Course
-Faculty    (1) ──────< (M) Course
-Student    (M) >──────< (M) Course  [resolved via Enrollment]
-```
-
-| Table | Primary Key | Foreign Keys |
-|:------|:------------|:-------------|
-| Department | DepartmentID | — |
-| Student | StudentID | DepartmentID |
-| Faculty | FacultyID | DepartmentID |
-| Course | CourseID | DepartmentID, FacultyID |
-| Enrollment | (StudentID, CourseID) | StudentID, CourseID |
-
----
-
-## ⚠ Important Note
-
-> Oracle does **not** support the `CREATE DATABASE` command like MySQL.
-> All tables are created under the **connected user schema** in Oracle.
-
-Also note:
-- Use `FETCH FIRST n ROWS ONLY` instead of MySQL's `LIMIT`
-- Use `SYSDATE` instead of `NOW()`
-- Use `MONTHS_BETWEEN()` for date difference calculations
-- Use `VARCHAR2` instead of `VARCHAR` for best practice in Oracle
-
----
-
-## 🚀 Future Work
-
-Additional labs will be added progressively covering:
-
-- [ ] Subqueries (Nested SELECT)
-- [ ] OUTER JOIN (LEFT, RIGHT, FULL)
-- [ ] Views & Virtual Tables
-- [ ] Indexing & Query Optimization
-- [ ] PL/SQL Basics
-- [ ] Stored Procedures & Functions
-- [ ] Triggers
-- [ ] Transactions & ACID Properties
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
+## 🏛️ B.P. Mandal College of Engineering, Madhepura, Bihar
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Table of Contents
+
+<details open>
+<summary><b>📋 Click to expand / collapse</b></summary>
+<br/>
+
+| # | Section |
+|:-:|:--------|
+| 01 | [👨‍🎓 Student Information](#-student-information) |
+| 02 | [🎯 Repository Overview](#-repository-overview) |
+| 03 | [📊 Lab Progress Dashboard](#-lab-progress-dashboard) |
+| 04 | [🗂 Repository Structure](#-repository-structure) |
+| 05 | [🔬 Labs in Detail](#-labs-in-detail) |
+| 06 | [📐 Database Schema](#-database-schema) |
+| 07 | [🛠 Tech Stack](#-tech-stack) |
+| 08 | [🧠 Skills & Concepts](#-skills--concepts) |
+| 09 | [⚠️ Oracle vs MySQL](#️-oracle-vs-mysql) |
+| 10 | [🚀 Roadmap & Future Work](#-roadmap--future-work) |
+| 11 | [💡 How to Use](#-how-to-use) |
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 👨‍🎓 Student Information
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                   🎓 STUDENT PROFILE                         ║
+╠══════════════════════════════════════════════════════════════╣
+║  Name        :  Ashish Srivastava                            ║
+║  Program     :  B.Tech – Computer Science & Engineering      ║
+║  Institution :  B.P. Mandal College of Engineering           ║
+║  Location    :  Madhepura, Bihar, India                      ║
+║  Semester    :  5th  (Session 2025–26)                       ║
+║  Subject     :  Database Management Systems Lab              ║
+║  Tool        :  Oracle SQL Developer / SQL*Plus              ║
+║  GitHub      :  ashish-srivastava-tech                       ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Repository Overview
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+This repository contains **structured, well-documented DBMS laboratory work** built on **Oracle Database** at B.P. Mandal College of Engineering.
+
+What makes this repository special:
+
+- 🔴 **Real Data** — Uses actual faculty, courses & student records from BPMCE
+- 🟠 **Oracle-Native** — Written in pure Oracle SQL, not MySQL/PostgreSQL
+- 🟡 **Verified Outputs** — Every query result exported and stored as CSV
+- 🟢 **Clean Architecture** — Consistent folder structure across all labs
+- 🔵 **Documented** — Every lab has its own detailed README
+- 🟣 **Progressive** — Each lab builds on the previous schema
+
+<br clear="right"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 Lab Progress Dashboard
+
+<div align="center">
+
+### 🔥 Overall Completion
+
+![Progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
+
+| Lab | Title | Queries | Output CSVs | Status |
+|:---:|:------|:-------:|:-----------:|:------:|
+| `01` | DDL & DML Operations | 18 | — | ![Done](https://img.shields.io/badge/✅-Done-2ECC71?style=flat-square) |
+| `02` | ER Model & Relational Schema | 5 tables | ER Diagram | ![Done](https://img.shields.io/badge/✅-Done-2ECC71?style=flat-square) |
+| `03` | Database Implementation | 50+ INSERTs | 5 CSVs | ![Done](https://img.shields.io/badge/✅-Done-2ECC71?style=flat-square) |
+| `04` | Data Retrieval | 23 queries | 18 CSVs | ![Done](https://img.shields.io/badge/✅-Done-2ECC71?style=flat-square) |
+| `05` | INNER JOIN | 20 queries | 20 CSVs | ![Done](https://img.shields.io/badge/✅-Done-2ECC71?style=flat-square) |
+| `06` | GROUP BY & HAVING | 22 queries | — | ![Done](https://img.shields.io/badge/✅-Done-2ECC71?style=flat-square) |
+| `07` | Subqueries | — | — | ![Soon](https://img.shields.io/badge/🔜-Coming_Soon-FF6B35?style=flat-square) |
+| `08` | OUTER JOIN | — | — | ![Soon](https://img.shields.io/badge/🔜-Coming_Soon-FF6B35?style=flat-square) |
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>📈 Lab Stats at a Glance</b></summary>
+<br/>
+
+```
+Total Queries Written  : 133+
+Total CSV Outputs      : 38
+Tables in Schema       : 5
+Real Data Records      : 150+
+Labs Completed         : 6
+Faculty Data Entries   : 26 (real BPMCE faculty)
+Student Data Entries   : 10 (real classmates)
+Departments Covered    : 7
+```
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🗂 Repository Structure
+
+<details open>
+<summary><b>📁 Full Folder Tree</b></summary>
+
+```
+📦 DBMS-SQL-LAB/
+│
+├── 📁 Lab-01-DDL-DML/
+│   ├── 📄 lab1_solution.sql        ← DDL + DML queries
+│   ├── 📄 questions.pdf            ← Faculty question paper
+│   └── 📄 README.md
+│
+├── 📁 Lab-02-ER-Diagram/
+│   ├── 📄 Lab_02_Tables.sql        ← CREATE TABLE with constraints
+│   ├── 🖼️  ER_Diagram_Lab_02.png   ← ER diagram image
+│   ├── 📐 ER_Diagram_Lab_02.drawio ← Editable draw.io source
+│   ├── 📄 questions.pdf
+│   └── 📄 README.md
+│
+├── 📁 Lab-03-ER-Relation/
+│   ├── 📁 SQL/
+│   │   └── 📄 Lab_03_Solution.sql  ← INSERT queries (real BPMCE data)
+│   ├── 📁 Data_Files/
+│   │   ├── 📊 Student_data.csv
+│   │   ├── 📊 Faculty_data.csv
+│   │   ├── 📊 Course_data.csv
+│   │   ├── 📊 Department_data.csv
+│   │   └── 📊 Enrollment_data.csv
+│   ├── 📁 Questions/
+│   ├── 📁 Reference_Material/      ← College timetables (2nd, 5th, 7th sem)
+│   └── 📄 README.md
+│
+├── 📁 Lab-04-Data-Retrieval/
+│   ├── 📄 Lab_04_Solution.sql      ← 23 SELECT queries
+│   ├── 📁 CSV/                     ← 18 verified SQL Developer outputs
+│   ├── 📄 Lab_04_Questions.pdf
+│   └── 📄 README.md
+│
+├── 📁 Lab-05-Joins/
+│   ├── 📄 Lab_05_solution.sql      ← 20 INNER JOIN queries
+│   ├── 📁 CSV/                     ← 20 verified SQL Developer outputs
+│   ├── 📄 DB-Lab-5_Question.pdf
+│   └── 📄 README.md
+│
+├── 📁 Lab-06-Data-Aggregation/
+│   ├── 📄 Lab_06_Solution.sql      ← 22 GROUP BY + HAVING queries
+│   ├── 📄 DB-Lab-6.pdf
+│   └── 📄 README.md
+│
+└── 📄 README.md                    ← You are here 👈
+```
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🔬 Labs in Detail
+
+<details open>
+<summary><b>🔹 Lab 01 – DDL & DML Operations</b></summary>
+<br/>
+
+> 🎯 **Objective:** Master fundamental SQL Data Definition and Data Manipulation commands using Oracle SQL.
+
+**Topics Covered:**
+
+```sql
+-- DDL: Defining database structure
+CREATE TABLE Student (RollNo NUMBER PRIMARY KEY, Name VARCHAR2(50), ...);
+ALTER TABLE Student ADD City VARCHAR2(30);
+ALTER TABLE Student RENAME COLUMN Phone TO MobileNo;
+DROP TABLE Course;
+
+-- DML: Manipulating data
+INSERT INTO Student VALUES (101, 'Rahul', 'CSE', 20, ...);
+UPDATE Student SET Dept = 'ECE' WHERE RollNo = 101;
+DELETE FROM Student WHERE RollNo = 105;
+```
+
+| Command | Purpose | Used |
+|:--------|:--------|:----:|
+| `CREATE TABLE` | Define schema | ✅ |
+| `ALTER TABLE` | Modify structure | ✅ |
+| `RENAME COLUMN` | Rename attribute | ✅ |
+| `DROP TABLE` | Delete table | ✅ |
+| `INSERT INTO` | Add records | ✅ |
+| `UPDATE` | Modify records | ✅ |
+| `DELETE` | Remove records | ✅ |
+
+</details>
+
 ---
 
-### 💡 How to Use This Repository
+<details>
+<summary><b>🔹 Lab 02 – ER Model & Relational Schema</b></summary>
+<br/>
 
-1. Clone or download the repository
-2. Open **Oracle SQL Developer** and connect to your schema
-3. Start from `Lab-02` to create the schema, then `Lab-03` to insert data
-4. Run each lab's `.sql` file using **F5** (full script) or **F9** (single query)
+> 🎯 **Objective:** Design a college ER diagram using draw.io and implement it as Oracle SQL tables.
+
+**Entities Identified:**
+
+| Entity | Primary Key | Attributes |
+|:-------|:------------|:-----------|
+| Department | DepartmentID | Name, OfficeLocation |
+| Student | StudentID | Name, DOB, Gender, Contact, DeptID |
+| Faculty | FacultyID | Name, Designation, Email, DeptID |
+| Course | CourseID | Name, Credits, DeptID, FacultyID |
+| Enrollment | (StudentID, CourseID) | Semester, Grade |
+
+**Relationships:**
+```
+Department ──1────M── Student
+Department ──1────M── Faculty
+Department ──1────M── Course
+Faculty    ──1────M── Course
+Student    ──M────M── Course  →  Resolved via Enrollment table
+```
+
+</details>
 
 ---
 
-*Submitted as part of DBMS Laboratory Work*
+<details>
+<summary><b>🔹 Lab 03 – Real Database Implementation</b></summary>
+<br/>
+
+> 🎯 **Objective:** Populate the schema with **authentic** data from B.P. Mandal College of Engineering.
+
+**Data Sources Used:**
+- 🌐 Official BPMCE college website
+- 📅 5th Semester timetable (Session 2025–26)
+- 📋 Department faculty lists
+- 👥 Class roll list
+
+**Data Summary:**
+
+```
+Departments  :  7  (Civil, Mechanical, CSE, EEE, 3DAG, CEwCA, CSE-AIML)
+Faculty      :  26  (real names, designations, email IDs)
+Students     :  10  (CSE batch 2023)
+Courses      :  5   (AI, DBMS, FLAT, SE, PSD)
+Enrollments  :  50  (10 students × 5 courses each)
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>🔹 Lab 04 – Data Retrieval (23 Queries)</b></summary>
+<br/>
+
+> 🎯 **Objective:** Master SELECT queries — aliases, filtering, sorting, limiting, and computed columns.
+
+```sql
+-- Oracle-specific syntax used:
+FETCH FIRST 3 ROWS ONLY                          -- instead of LIMIT
+FLOOR(MONTHS_BETWEEN(SYSDATE, DateOfBirth)/12)   -- calculate age
+EXTRACT(YEAR FROM DateOfBirth)                    -- extract year
+SUBSTR(Email, INSTR(Email,'@')+1)                -- extract email domain
+```
+
+**Parts:** A (Aliases) · B (WHERE) · C (Sorting & Limiting) · D (Derived Output)
+
+</details>
+
+---
+
+<details>
+<summary><b>🔹 Lab 05 – INNER JOIN (20 Queries)</b></summary>
+<br/>
+
+> 🎯 **Objective:** Retrieve meaningful data from multiple related tables using INNER JOIN.
+
+```sql
+-- 3-table JOIN example:
+SELECT S.Name, C.CourseName, E.Grade
+FROM Student S
+INNER JOIN Enrollment E ON S.StudentID = E.StudentID
+INNER JOIN Course C     ON E.CourseID  = C.CourseID
+WHERE E.Semester = 5;
+```
+
+**Parts:** A (Student–Enrollment) · B (Course–Faculty) · C (3-Table JOIN) · D (Dept JOIN) · E (Filter+Sort) · F (Analytical)
+
+</details>
+
+---
+
+<details>
+<summary><b>🔹 Lab 06 – GROUP BY & HAVING (22 Queries)</b></summary>
+<br/>
+
+> 🎯 **Objective:** Summarize and analyze data using aggregate functions, GROUP BY, and HAVING.
+
+```sql
+-- Aggregation with JOIN example:
+SELECT C.CourseName, COUNT(E.StudentID) AS Total_Students
+FROM Course C
+INNER JOIN Enrollment E ON C.CourseID = E.CourseID
+GROUP BY C.CourseName
+HAVING COUNT(E.StudentID) > 2
+ORDER BY Total_Students DESC;
+```
+
+**Aggregate Functions Used:** `COUNT()` · `MAX()` · `MIN()` · `SUM()` · `AVG()`
+
+**Parts:** A (Basic Aggregates) · B (GROUP BY Single) · C (HAVING) · D (Aggregation+JOIN) · E (Analytical)
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📐 Database Schema
+
+<div align="center">
+
+```
+┌─────────────────────┐
+│     DEPARTMENT      │
+│─────────────────────│
+│ PK DepartmentID     │◄────────────────────────────────────┐
+│    DepartmentName   │                                     │
+│    OfficeLocation   │                                     │
+└─────────────────────┘                                     │
+         │ 1                                                 │
+         │                                                   │
+    ┌────┴──────┬──────────────────────┐                    │
+    │ M         │ M                    │ M                   │
+    ▼           ▼                      ▼                     │
+┌──────────┐ ┌──────────┐    ┌────────────────┐             │
+│ STUDENT  │ │ FACULTY  │    │    COURSE      │             │
+│──────────│ │──────────│    │────────────────│             │
+│PK StuID  │ │PK FacID  │◄───│PK  CourseID    │             │
+│   Name   │ │   Name   │ 1  │    CourseName  │─────────────┘
+│   DOB    │ │   Desig. │    │    Credits     │
+│   Gender │ │   Email  │    │ FK DeptID      │
+│   Contact│ │FK DeptID │    │ FK FacultyID   │
+│FK DeptID │ └──────────┘    └────────────────┘
+└──────────┘                          │
+    │ M                               │ M
+    │                                 │
+    └──────────┬──────────────────────┘
+               │ M+M
+               ▼
+    ┌─────────────────────┐
+    │     ENROLLMENT      │
+    │─────────────────────│
+    │ PK FK StudentID     │
+    │ PK FK CourseID      │
+    │       Semester      │
+    │       Grade         │
+    └─────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+![Oracle](https://img.shields.io/badge/Oracle-Database%2021c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/Oracle-SQL%20Developer-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-ER%20Diagrams-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-Query%20Outputs-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🧠 Skills & Concepts
+
+<div align="center">
+
+| Category | Skills |
+|:---------|:-------|
+| **DDL** | `CREATE` `ALTER` `DROP` `RENAME` `TRUNCATE` |
+| **DML** | `INSERT` `UPDATE` `DELETE` `SELECT` |
+| **Filtering** | `WHERE` `AND` `OR` `IN` `BETWEEN` `LIKE` |
+| **Sorting** | `ORDER BY ASC/DESC` `FETCH FIRST` |
+| **Functions** | `MONTHS_BETWEEN` `EXTRACT` `SUBSTR` `INSTR` `FLOOR` |
+| **Joins** | `INNER JOIN` (2-table & 3-table) |
+| **Aggregation** | `COUNT` `MAX` `MIN` `SUM` `AVG` |
+| **Grouping** | `GROUP BY` `HAVING` |
+| **Constraints** | `PRIMARY KEY` `FOREIGN KEY` `NOT NULL` |
+| **Design** | ER Modeling · Normalization · Relational Schema |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ⚠️ Oracle vs MySQL
+
+<div align="center">
+
+| Feature | ❌ MySQL | ✅ Oracle (Used Here) |
+|:--------|:---------|:----------------------|
+| Limit rows | `LIMIT 5` | `FETCH FIRST 5 ROWS ONLY` |
+| Current date | `NOW()` | `SYSDATE` |
+| String type | `VARCHAR` | `VARCHAR2` |
+| Auto increment | `AUTO_INCREMENT` | `SEQUENCE` + `TRIGGER` |
+| Age from DOB | `DATEDIFF()` | `MONTHS_BETWEEN()` |
+| Create DB | `CREATE DATABASE` | ❌ Not supported (use schema) |
+| Extract year | `YEAR(col)` | `EXTRACT(YEAR FROM col)` |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Roadmap & Future Work
+
+```mermaid
+graph LR
+    A[✅ Lab 01\nDDL & DML] --> B[✅ Lab 02\nER Model]
+    B --> C[✅ Lab 03\nData Insert]
+    C --> D[✅ Lab 04\nSELECT]
+    D --> E[✅ Lab 05\nINNER JOIN]
+    E --> F[✅ Lab 06\nGROUP BY]
+    F --> G[🔜 Lab 07\nSubqueries]
+    G --> H[🔜 Lab 08\nOUTER JOIN]
+    H --> I[🔜 Lab 09\nViews]
+    I --> J[🔜 Lab 10\nPL/SQL]
+```
+
+**Upcoming Labs:**
+- [ ] 🔜 Subqueries & Nested SELECT
+- [ ] 🔜 OUTER JOIN (LEFT, RIGHT, FULL)
+- [ ] 🔜 Views & Virtual Tables
+- [ ] 🔜 Indexing & Query Optimization
+- [ ] 🔜 PL/SQL Basics
+- [ ] 🔜 Stored Procedures & Functions
+- [ ] 🔜 Triggers
+- [ ] 🔜 Transactions & ACID Properties
+- [ ] 🔜 Cursors
+- [ ] 🔜 Exception Handling in PL/SQL
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 How to Use
+
+<details>
+<summary><b>🚀 Quick Start Guide</b></summary>
+<br/>
+
+**Step 1 — Clone the repository**
+```bash
+git clone https://github.com/ashish-srivastava-tech/DBMS-SQL-LAB.git
+```
+
+**Step 2 — Open Oracle SQL Developer and connect to your schema**
+
+**Step 3 — Run in this order:**
+```
+1️⃣  Lab-02 → Lab_02_Tables.sql       (creates all tables)
+2️⃣  Lab-03 → Lab_03_Solution.sql     (inserts real data)
+3️⃣  Lab-04 → Lab_04_Solution.sql     (SELECT queries)
+4️⃣  Lab-05 → Lab_05_solution.sql     (JOIN queries)
+5️⃣  Lab-06 → Lab_06_Solution.sql     (GROUP BY queries)
+```
+
+**Step 4 — Execution shortcuts in SQL Developer:**
+
+| Key | Action |
+|:----|:-------|
+| `F5` | Run entire script |
+| `F9` | Run single query |
+| `Ctrl+Enter` | Run current statement |
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep+Learning+•+Keep+Building&fontSize=20&fontColor=fff&animation=twinkling"/>
+
+<br/>
+
+*📚 Structured · ⚡ Oracle-Native · 🎯 Academic · 🔥 Real Data*
+
+<br/>
+
+**Made with ❤️ by Ashish Srivastava**
 *B.P. Mandal College of Engineering, Madhepura, Bihar*
 
----
+<br/>
 
-### 📚 Structured · Clean · Academic · Oracle-Based
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ashish-srivastava-tech.DBMS-SQL-LAB)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ashish-srivastava-tech.DBMS-SQL-LAB&left_color=blueviolet&right_color=green&left_text=Repo%20Visitors)
 
 </div>
