@@ -5,7 +5,7 @@ To implement relational database tables using SQL and populate them using struct
 
 ## Description
 In this lab, database tables are created using SQL scripts.  
-Sample data is provided in CSV format and represents actual records for different database entities such as Student, Department, Course, Faculty, and Enrollment.
+Sample data is provided in CSV format for the entities Student, Department, Course, Faculty, and Enrollment. Faculty names and email addresses are taken from the college's public website; student records are dummy values created for practice.
 
 The lab demonstrates practical implementation of relational schema and handling structured data for database population.
 

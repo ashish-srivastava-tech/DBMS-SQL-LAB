@@ -131,7 +131,7 @@ This lab forms a strong foundation for advanced SQL concepts such as:
 ```
 DBMS-SQL-Lab
 │
-└── Lab-05_Joins
+└── Lab-05-Joins
     │
     ├── README.md
     ├── Lab_05_Join_Queries.sql
