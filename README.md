@@ -30,8 +30,7 @@ DBMS laboratory work using Oracle SQL, written for the Database Management Syste
 | 04 | Data retrieval (SELECT) | 23 queries | 18 CSV files | Complete |
 | 05 | INNER JOIN | 20 queries | 20 CSV files | Complete |
 | 06 | GROUP BY and HAVING | 22 queries | none | Complete |
-| 07 | Subqueries | | | Upcoming |
-| 08 | OUTER JOIN | | | Upcoming |
+
 
 **Totals:** 83 queries (Labs 01, 04, 05, 06), 5 CREATE TABLE statements, 98 INSERT statements, 38 CSV outputs (Labs 04 and 05).
 
